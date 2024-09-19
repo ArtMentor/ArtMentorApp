@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c697987f-3d9a-4849-9b82-be3140bab914" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ArtMentor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtMentor_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtMentor_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/Entities/13.jpg_labels.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActions/Entities/13.jpg_labels.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/Entities/21.jpg_labels.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActions/Entities/21.jpg_labels.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/1.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/1.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/1.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/1.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/1.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/1.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/1.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/1.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/1.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/10.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/10.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/10.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/10.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/10.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/10.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/10.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/10.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/10.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/11.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/11.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/11.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/11.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/11.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/11.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/11.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/11.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/11.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/12.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/12.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/12.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/12.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/12.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/12.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/12.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/12.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/12.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/13.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/13.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/13.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/13.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/13.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/13.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/13.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/13.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/13.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/14.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/14.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/14.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/14.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/14.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/14.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/14.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/14.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/14.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/15.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/15.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/15.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/15.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/15.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/15.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/15.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/15.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/15.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/16.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/16.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/16.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/16.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/16.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/16.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/16.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/16.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/16.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/17.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/17.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/17.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/17.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/17.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/17.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/17.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/17.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/17.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/18.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/18.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/18.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/18.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/18.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/18.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/18.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/18.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/18.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/19.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/19.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/19.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/19.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/19.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/19.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/19.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/19.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/19.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/2.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/2.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/2.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/2.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/2.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/2.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/2.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/2.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/2.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/20.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/20.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/20.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/20.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/20.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/20.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/20.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/20.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/20.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/21.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/21.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/21.jpg_Deformation_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActions/score_Review/21.jpg_Deformation_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/21.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/21.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/21.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/21.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/21.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/21.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/3.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/3.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/3.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/3.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/3.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/3.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/3.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/3.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/3.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/4.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/4.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/4.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/4.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/4.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/4.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/4.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/4.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/4.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/5.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/5.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/5.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/5.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/5.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/5.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/5.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/5.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/5.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/6.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/6.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/6.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/6.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/6.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/6.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/6.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/6.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/6.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/7.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/7.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/7.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/7.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/7.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/7.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/7.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/7.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/7.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/8.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/8.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/8.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/8.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/8.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/8.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/8.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/8.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/8.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/9.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/9.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/9.jpg_Deformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/9.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/9.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/9.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/9.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/9.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/score_Review/9.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/1.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/1.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/1.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/1.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/1.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/1.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/1.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/1.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/1.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/10.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/10.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/10.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/10.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/10.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/10.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/10.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/10.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/10.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/11.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/11.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/11.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/11.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/11.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/11.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/11.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/11.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/11.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/12.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/12.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/12.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/12.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/12.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/12.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/12.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/12.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/12.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/13.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/13.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/13.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/13.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/13.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/13.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/13.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/13.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/13.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/14.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/14.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/14.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/14.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/14.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/14.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/14.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/14.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/14.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/15.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/15.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/15.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/15.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/15.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/15.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/15.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/15.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/15.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/16.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/16.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/16.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/16.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/16.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/16.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/16.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/16.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/16.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/17.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/17.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/17.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/17.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/17.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/17.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/17.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/17.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/17.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/18.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/18.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/18.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/18.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/18.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/18.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/18.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/18.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/18.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/19.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/19.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/19.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/19.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/19.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/19.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/19.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/19.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/19.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/2.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/2.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/2.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/2.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/2.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/2.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/2.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/2.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/2.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/20.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/20.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/20.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/20.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/20.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/20.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/20.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/20.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/20.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/21.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/3.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/3.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/3.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/3.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/3.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/3.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/3.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/3.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/3.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/4.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/4.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/4.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/4.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/4.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/4.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/4.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/4.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/4.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/5.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/5.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/5.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/5.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/5.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/5.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/5.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/5.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/5.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/6.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/6.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/6.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/6.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/6.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/6.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/6.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/6.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/6.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/7.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/7.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/7.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/7.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/7.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/7.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/7.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/7.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/7.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/8.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/8.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/8.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/8.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/8.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/8.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/8.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/8.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/8.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/9.jpg_Color Contrast_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/9.jpg_Color Richness_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/9.jpg_Deformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/9.jpg_Imagination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/9.jpg_Line Combination_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/9.jpg_Line Texture_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/9.jpg_Picture Organization_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/9.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActions/suggestion/9.jpg_Transformation_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/1.jpg_Color Contrast_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/1.jpg_Color Contrast_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/1.jpg_Color Richness_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/1.jpg_Color Richness_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/1.jpg_Imagination_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/1.jpg_Imagination_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/1.jpg_Realistic_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/1.jpg_Realistic_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/11.jpg_Color Contrast_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/11.jpg_Color Contrast_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/11.jpg_Color Richness_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/11.jpg_Color Richness_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/11.jpg_Line Combination_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/11.jpg_Line Combination_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/11.jpg_Line Texture_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/11.jpg_Line Texture_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/11.jpg_Picture Organization_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/11.jpg_Picture Organization_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/12.jpg_Color Contrast_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/12.jpg_Color Contrast_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/12.jpg_Color Richness_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/12.jpg_Color Richness_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/12.jpg_Line Combination_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/12.jpg_Line Combination_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/12.jpg_Line Texture_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/12.jpg_Line Texture_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/12.jpg_Picture Organization_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/12.jpg_Picture Organization_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/16.jpg_Realistic_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/16.jpg_Realistic_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/18.jpg_Imagination_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/18.jpg_Imagination_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/19.jpg_Imagination_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/19.jpg_Imagination_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/20.jpg_Imagination_score_Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/20.jpg_Imagination_score_Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/21.jpg_Color Contrast_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/21.jpg_Color Richness_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/21.jpg_Imagination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/21.jpg_Line Combination_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/21.jpg_Line Texture_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/21.jpg_Picture Organization_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/21.jpg_Realistic_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/score_Review/21.jpg_Transformation_score_Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Color Contrast_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Color Richness_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Color Richness_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Line Combination_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Line Combination_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Line Texture_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Line Texture_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Picture Organization_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Picture Organization_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Realistic_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Realistic_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Transformation_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/10.jpg_Transformation_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Color Contrast_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Color Richness_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Color Richness_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Line Combination_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Line Combination_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Line Texture_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Line Texture_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Picture Organization_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Picture Organization_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Transformation_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/11.jpg_Transformation_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Color Contrast_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Color Richness_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Color Richness_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Line Combination_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Line Combination_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Line Texture_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Line Texture_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Picture Organization_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Picture Organization_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Transformation_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/12.jpg_Transformation_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/13.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/13.jpg_Color Contrast_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/13.jpg_Color Richness_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/13.jpg_Color Richness_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Color Contrast_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Color Richness_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Color Richness_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Line Combination_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Line Combination_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Line Texture_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Line Texture_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Picture Organization_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Picture Organization_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Transformation_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/14.jpg_Transformation_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Color Contrast_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Color Richness_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Color Richness_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Line Combination_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Line Combination_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Line Texture_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Line Texture_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Picture Organization_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Picture Organization_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Transformation_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/15.jpg_Transformation_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/16.jpg_Transformation_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/16.jpg_Transformation_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Color Contrast_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Color Richness_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Color Richness_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Line Combination_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Line Combination_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Line Texture_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Line Texture_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Picture Organization_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Picture Organization_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Transformation_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/18.jpg_Transformation_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Color Contrast_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Color Richness_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Color Richness_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Line Combination_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Line Combination_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Line Texture_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Line Texture_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Picture Organization_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Picture Organization_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Transformation_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/19.jpg_Transformation_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/20.jpg_Picture Organization_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/20.jpg_Picture Organization_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/21.jpg_Realistic_suggestion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/6.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/6.jpg_Color Contrast_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/7.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/7.jpg_Color Contrast_suggestion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/8.jpg_Color Contrast_suggestion.json" beforeDir="false" afterPath="$PROJECT_DIR$/userActionsEveryRounds/suggestion/8.jpg_Color Contrast_suggestion.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lK8vyOg9zOgaGSfFs7ZUAsGK8k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flask server.Flask (ArtMentor_app.py).executor": "Run",
+    "Python.ArtMentorApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/project/ArtMentorApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ArtMentorApp" type="PythonConfigurationType" factoryName="Python">
+      <module name="ArtMentorApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArtMentor_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c697987f-3d9a-4849-9b82-be3140bab914" name="Changes" comment="" />
+      <created>1724917641751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724917641751</updated>
+      <workItem from="1724917642854" duration="1354000" />
+      <workItem from="1725002004777" duration="2178000" />
+      <workItem from="1725371135395" duration="1943000" />
+      <workItem from="1725609794624" duration="2256000" />
+      <workItem from="1726713366900" duration="1634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ArtMentorApp$ArtMentorApp.coverage" NAME="ArtMentorApp Coverage Results" MODIFIED="1726714395333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ArtMentorApp$Flask__ArtMentor_app_py_.coverage" NAME="Flask (ArtMentor_app.py) Coverage Results" MODIFIED="1724918395494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
