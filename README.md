@@ -83,7 +83,7 @@ with open('key.txt', 'r') as file:
 client = openai.OpenAI(api_key=api_key)
 ```
 
-*2. Customizing the Image Recognition Agent*
+*2. Customizing the Entity Recognition Agent*
 
 The `Entity_Recognition_Agent` function processes the input image and generates descriptive labels. If you want to modify the behavior of this agent, such as changing the prompt structure or adjusting the model parameters, or parametric like `temperature`, `top_p`, and others. you can do so directly in this function.
 
@@ -123,7 +123,7 @@ def Entity_Recognition_Agent(image_data):
   - **Explanation**: Different models have varying levels of complexity, accuracy, and response times. Choose the model based on the task's requirements.
 - **`temperature`**: Controls the randomness of the output.
 
-  - **Range**: `0.0` to `2.0`.
+  - **Value**: `0.0`.
   - **Explanation**:
     - A value of `0.0` makes the output highly deterministic, with the model choosing the most probable next word, which is suitable for tasks requiring precision and consistency.
     - Higher values (e.g., `1.0` or above) introduce more randomness and diversity into the output, useful for creative or open-ended tasks.
@@ -170,10 +170,10 @@ def allowed_file(filename):
 
 The ArtMentor system uses several key metrics to assess the performance of multimodal large language models:
 
-1. **Entity Recognition Accuracy**: Measures how accurately the model identifies visual elements in artworks.
-2. **Score Acceptance**: Evaluates the consistency between AI-generated scores and human-modified scores.
-3. **Text Modification Rate**: Tracks the extent of user changes to AI-generated comments and suggestions.
-4. **Art Style Sensitivity**: Assesses the model's ability to recognize and respond to different artistic styles.
+1. **Entity Classification Metrics**: Measures how accurately the model identifies visual elements in artworks.
+2. **Score Acceptance Metrics**: Evaluates the consistency between AI-generated scores and human-modified scores.
+3. **Text Acceptance Metrics**: Tracks the extent of user changes to AI-generated comments and suggestions.
+4. **Art Style Metrics**: Assesses the model's ability to recognize and respond to different artistic styles.
 
 **Interaction Data**
 
